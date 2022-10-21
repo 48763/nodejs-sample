@@ -1,7 +1,7 @@
 version: '3'
 services:
   prom-client:
-    image: harbor.yukifans.com/service/ci-sample:1.0.0
+    image: 48763/vsftpd:1.0.0
     restart: always
     logging:
       options:

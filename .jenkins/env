@@ -3,4 +3,4 @@
 ############################
 ENV=node:8.11.1-alpine
 DIGEST=
-BUILD_VERSION=1.0.0
+BUILD_VERSION=1.0.1

@@ -1,7 +1,7 @@
 version: '3'
 services:
   prom-client:
-    image: 48763/nodejs-sample:1.0.0
+    image: 48763/nodejs-sample:1.0.1
     restart: always
     logging:
       options:
